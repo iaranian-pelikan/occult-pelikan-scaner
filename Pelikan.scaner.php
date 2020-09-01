@@ -36,7 +36,7 @@ function Logo() {
 $text .= "|***************************************************************************************|\n";
 $text .= " in the name of allah            /n";
 $text .= "         occult warfare scanner \n";
-$text .= "        pelikan typhon mr fucker silent heart less nayber troll maximum mr morgan codi ، fatmeh mr mmd m4s9b8 newfolder redshot jokatin arash blacl root mr amir\n";
+$text .= "        pelikan typhon mr fucker doctor father silent heart less nayber troll maximum mr morgan codi ، fatmeh mr mmd m4s9b8 newfolder redshot jokatin arash blacl root mr amir\n";
 $text .= "       created by pelikan and occult team        <iranian_pelikan@telegmail.com>\n";
 $text .= "        Greetz : pelikan , occult team\n";
 $text .= "        1 sep 2020        \n";
